@@ -1,0 +1,10 @@
+color
+display
+float
+height
+width
+margin
+font-size
+font-family
+background
+font-weight

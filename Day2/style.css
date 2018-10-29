@@ -1,0 +1,37 @@
+header{
+	position: sticky;
+}
+header li{
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 10px;
+}
+
+article{
+	font-size: 20px;
+	background: black;
+	border-style: solid;
+	text-align: initial;
+	margin-top: 20px;
+
+}
+
+body{
+	background-image: url(img/full-bloom.png);
+	text-align: center;
+	color: goldenrod;
+	font-family: arial;
+	font-size: 20px;
+	font-style: initial;
+	text-align: center;
+}
+h1{
+	font-size: 50px;
+	background: black;
+	border-style: solid;
+}
+nav {
+	display: inline-block;
+	margin-top: 20px;
+}
+
